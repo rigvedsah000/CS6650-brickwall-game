@@ -64,4 +64,5 @@ Build/
 UserSettings/
 Debug/
 Logs/
+Temp/
 *.meta
